@@ -1,14 +1,17 @@
 [
   {
     "name": "کانال ما",
-    "id": "hacker_showl"
+    "id": "hacker_showl",
+    "name_butom": "عضویت در کانال"
   },
   {
     "name": "کانال ما",
-    "id": "mod_gta_1"
+    "id": "mod_gta_1",
+    "name_butom": "عضویت در کانال"
   },
   {
     "name": "آیدی سازنده",
-    "id": "komeyl_2019"
+    "id": "komeyl_2019",
+    "name_butom": "پیام به آیدی"
   }
 ]
